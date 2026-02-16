@@ -33,20 +33,6 @@ https://nandinikale23.github.io/fashion-website-frontend/
 
 ---
 
-## 📂 Project Structure
-
-fashion-website-frontend/
-│
-├── index.html
-├── home.html
-├── men.html
-├── women.html
-├── contact.html
-├── style.css
-└── assets (images/videos if any)
-
----
-
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
